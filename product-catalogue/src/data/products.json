@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "Wireless Headphones with clear sound and long battery life.",
+        "price": 5499,
+        "rating": 4.5,
+        "category": "Electronics",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVgwCqbtQcCUS-LEwFAKXgP_Ivke-fpjconKFkIs5B1-H2JQMCfXtsCDui3TBdkiGnjrDuL-vCI0nbFdqumJe-FGzcn0yNZvX6Y5hr5R0N2gnot7l4l5dr6Py_ecsUyEzgpbrt13M8qQ&usqp=CAc"
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch",
+        "description": "Smart Watch with advanced features and sleek design.",
+        "price": 1399,
+        "rating": 4.1,
+        "category": "Electronics",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQctzj3FDUJdnZ4oLRvfN4tqZPa2HJ65hGA4HG52m8PKsaLBTYeVSwJHpBA-5p9Q3oZA4mIhaCi-YeH9YPdYLrGLgjZB0leNAbmUMPncafG2Zs0Isd4Qb93mwSiIKgnKKgzNevMvw&usqp=CAc"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Running Shoes with excellent cushioning and durability.",
+        "price": 12999,
+        "rating": 4.8,
+        "category": "Fashion",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSZrea6v10VInXfFCZVZsh9t3wuioggO09tZs8l4ngoVIFBzyYC5fsokiZNtIGpVJ0EkXSFTq4wFoLE1N8uRf-a_ogOEounXYQnjg5YZzAJrsdULL2lkPyQXnujKZ-5X5hJqWXHXhA&usqp=CAc"
+    },
+    {
+        "id": 4,
+        "name": "Classic T-shirt",
+        "description": "Classic T-shirt with a comfortable fit and durable fabric.",
+        "price": 1650,
+        "rating": 4.0,
+        "category": "Fashion",
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQQVlK2oZvtSMXxFkIceiXXGDNb5xv2ejElSnE_KTzRsYGfF2PlAUZTG-_fCQa9K4j9WADP830nu4owjcF4kWmHXy6ibvotpR9g7P_wUDcAlxrODEK8JOZcD16IHZU1MI00TPYN5WE&usqp=CAc"
+    },
+    {
+        "id": 5,
+        "name": "Coffee Maker",
+        "description": "Coffee Maker with programmable timer and auto shut-off feature.",
+        "price": 16500,
+        "rating": 4.4,
+        "category": "Home",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRWK0WsQuA9GxGmCSuiMXuRPxAeiVBHtPWi1xYXCE0nwV5rYIcTPjbDjNqEnJ-5B3G8GxLUga1D8hk3EGPT9hepGgc-AzpXqdhA_doFjVaAGcrwJ8uQWSWBocyBsuialBQ8zlOErik&usqp=CAc"
+    },
+    {
+        "id": 6,
+        "name": "Desk Lamp",
+        "description": "Desk Lamp with adjustable brightness and modern design.",
+        "price": 16418,
+        "rating": 4.4,
+        "category": "Home",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQriJjxBCJweoLS-aUo029ix4pUIxRy_jw2tHh_R2_TAQ&s=10"
+    },
+    {
+        "id": 7,
+        "name": "Backpack",
+        "description": "Durable backpack with multiple compartments and comfortable straps.",
+        "price": 899,
+        "rating": 4.5,
+        "category": "Accessories",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmCRPPvffH3DsOfGAb0IvZh-cspZ7ZOh4yUSrL-aPqA&s=10"
+    },
+    {
+        "id": 8,
+        "name": "Sunglasses",
+        "description": "Sunglasses with UV protection and polarized lenses.",
+        "price": 999,
+        "rating": 4.0,
+        "category": "Accessories",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMIQFsXS29aMW7g3lRF2TjIY3AJmZoh0sEkOW-NqBe4g&s=10"
+    }
+]
